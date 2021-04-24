@@ -19,7 +19,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer.
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" /> GITHUB
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" /> GITHUB <br>
 <img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" /> MONGODB
 <img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" /> JAVASCRIPT
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" /> HTML5
