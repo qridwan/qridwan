@@ -9,6 +9,7 @@
   <img align="left" alt="Mike Owino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<br>
 Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer.
 
 - 🌱 I’m currently learning NodeJS, SASS, Redux, Data Structure & Algorithme
@@ -19,11 +20,15 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer.
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" /> GITHUB <br>
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" /> MONGODB <br>
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" /> JAVASCRIPT <br>
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" /> HTML5 <br>
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" /> CSS <br>
+GITHUB <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" /> 
+
+MONGODB<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
+
+JAVASCRIPT <img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" /> 
+
+HTML5 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" /> 
+
+CSS <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />  
 <br>
 <br>
 
