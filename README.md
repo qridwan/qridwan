@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://thisisrid.github.io/">RIDWAN</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/thizizrid">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
   <a href="https://www.instagram.com/thizizrid">Instagram</a> •
   <a href="https://twitter.com/thizizrid">Twitter</a>
 </p>
@@ -16,8 +16,6 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer. <img align
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫  How to reach me: this.rid1@gmail.com 
 <br>
-<br>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
