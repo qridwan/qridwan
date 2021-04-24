@@ -36,9 +36,9 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
-![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
+![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Credits: [MikeOwino](https://github.com/MikeOwino)
+Credits: [RIDWAN](https://github.com/thisisrid)
 
-Last Edited on: 27/12/2020
+Last Edited on: 24/04/2021
