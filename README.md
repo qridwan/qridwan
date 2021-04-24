@@ -10,10 +10,11 @@
 Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning NodeJS, SASS, Redux, Data Structure & Algorithme
+- 🎓 Completed BSc in Textile Engineering 
+- 💞 Passionate about Web Development!
+- 🌱 I’m currently learning NodeJS, Data Structure & Algorithm
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫  How to reach me: this.rid1@gmail.com 
-<br>
 <br>
 <br>
 
@@ -38,6 +39,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer. <img align
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Credits: [RIDWAN](https://github.com/thisisrid)
-
-Last Edited on: 24/04/2021
+Last Edited on: 25/04/2021
