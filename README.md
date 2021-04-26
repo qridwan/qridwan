@@ -14,7 +14,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Front-end Web Developer. <img align
 - 💞 Passionate about Web Development!
 - 🌱 I’m currently learning advance NodeJS
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
-- 📫  How to reach me: ridwnaul.alam96@gmail.com  
+- 📫  How to reach me: ridwanul.alam96@gmail.com
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
