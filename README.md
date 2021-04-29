@@ -10,11 +10,11 @@
 Hi, I'm Mohammad Ridwanul Alam, a passionate Frontend Web Developer. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
 
 **Talking about Personal Stuffs:**
-- 🎓 Completed BSc in Textile Engineering 
 - 💞 Passionate about Web Development!
 - 🌱 I’m currently learning advance NodeJS
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫  How to reach me: ridwanul.alam96@gmail.com
+- 🎓 Completed BSc in Textile Engineering 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
