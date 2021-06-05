@@ -1,8 +1,7 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="">RIDWAN</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.linkedin.com/in/thizizrid/">RIDWAN</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
-  <a href="https://www.instagram.com/thizizrid">Instagram</a> •
-  <a href="https://twitter.com/thizizrid">Twitter</a>
+  <a href="https://www.instagram.com/thizizrid">Instagram</a> 
 </p>
 
 
@@ -37,4 +36,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Frontend Web Developer. <img align=
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Last Edited on: 30/04/2021
+Last Edited on: 05/06/2021
