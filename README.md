@@ -10,7 +10,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Frontend Web Developer. <img align=
 
 **Talking about Personal Stuffs:**
 - 💞 Passionate about Web Development!
-- 🌱 I’m currently learning advance NodeJS
+- 🌱 I’m currently learning React-Native
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫  How to reach me: ridwanul.alam96@gmail.com
 - 🎓 Completed BSc in Textile Engineering 
@@ -36,4 +36,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Frontend Web Developer. <img align=
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Last Edited on: 05/06/2021
+Last Edited on: 10/06/2021
