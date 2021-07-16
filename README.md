@@ -10,7 +10,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 
 **Talking about Personal Stuffs:**
 - 💞 Passionate about Web Development!
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript and AWS
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫  How to reach me: ridwanul.alam96@gmail.com
 - 🎓 Completed BSc in Textile Engineering 
@@ -36,4 +36,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Last Edited on: 11/07/2021
+Last Edited on: 16/07/2021
