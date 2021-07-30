@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/thisisrid/thisisrid/assets/mybanner.jpg)](https://thisisrid.github.io)
+[![ProfileBanner](assets/mybanner.jpg)](https://ridwan-dev.web.app)
 <br>
 
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">RIDWAN</a></h2>
