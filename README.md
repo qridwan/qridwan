@@ -1,6 +1,3 @@
-[![ProfileBanner](assets/mybanner.jpg)](https://ridwan-dev.web.app)
-<br>
-
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">RIDWAN</a></h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
@@ -50,4 +47,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 
 ---
 
-Last Edited on: 31/07/2021
+Last Edited on: 04/08/2021
