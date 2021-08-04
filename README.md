@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://www.ridwan-dev.web.app">RIDWAN</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://ridwan-dev.web.app/">RIDWAN</a></h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
   <a target="_blank" href="https://www.instagram.com/riid1_/">Instagram</a> 
