@@ -10,7 +10,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 **Talking about Personal Stuffs:**
 
 - 💞 Passionate about Web Development!
-- 🌱 I’m currently learning Typescript and AWS
+- 🌱 I’m currently learning Typescript and Next.js
 - 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
 - 📫 How to reach me: ridwanul.alam96@gmail.com
 - 🎓 Completed BSc in Textile Engineering
@@ -21,8 +21,9 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) </br>
   ![React](https://img.shields.io/badge/-React.Js-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![ExpressJs](https://img.shields.io/badge/-Express.Js-333333?style=flat&logo=express)
@@ -40,6 +41,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Material Ui](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=material-ui)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333.svg??style=flat&logo=tailwind-css&logoColor=cyan)
   ![Adobe XD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrid&layout=compact&theme=highcontrast)](https://github.com/thisisrid/)
@@ -47,4 +49,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 
 ---
 
-Last Edited on: 04/08/2021
+Last Edited on: 15/08/2021
