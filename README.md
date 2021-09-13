@@ -5,7 +5,8 @@
 </p>
 
 <br>
-Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
+Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. 
+<img align="right" alt="coding from home" src= "https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47wgo5yhwtxk245rnblgy5prls4dal9ak66up6k2if&rid=giphy.gif&ct=g" height = 200 width = 300/>
 
 **Talking about Personal Stuffs:**
 
@@ -54,4 +55,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer. <img alig
 
 ---
 
-Last Edited on: 15/08/2021
+Last Edited on: 15/09/2021
