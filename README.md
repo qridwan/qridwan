@@ -12,9 +12,9 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer.
 
 - 💞 Passionate about Web Development!
 - 🌱 I’m currently learning Typescript and Next.js
-- 💬 Ask me about anything on [Telegram](https://t.me/thizizrid)
+- 💬 Ask me anything on [Telegram](https://t.me/thizizrid)
 - 📫 How to reach me: ridwanul.alam96@gmail.com
-- 🎓 Completed BSc in Textile Engineering
+- 🎓 BSc Graduate
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
