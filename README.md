@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://bio.link/rid1">RIDWAN</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a target="_blank" href="https://stackoverflow.com/story/rid1">RIDWAN</a></h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
   <a target="_blank" href="https://www.instagram.com/this.rid1/">Instagram</a> 
@@ -55,4 +55,4 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer.
 
 ---
 
-Last Edited on: 22/09/2021
+Last Edited on: 28/09/2021
