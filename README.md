@@ -10,7 +10,7 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Typescript and Next.js
+- 🌱 I’m currently learning Docker
 - 💬 Ask me anything on [Telegram](https://t.me/thizizrid)
 - 📫 How to reach me: [mail](mailto:hello@rid1.xyz)
 - 🎓 BSc Graduate
