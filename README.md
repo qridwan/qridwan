@@ -53,5 +53,6 @@ Hi, I'm Mohammad Ridwanul Alam, a passionate Full-Stack Web Developer.
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
 
 ---
+[![HitCount](https://hits.dwyl.com/thisisrid/thisisrid.svg?style=flat-square)](http://hits.dwyl.com/thisisrid/thisisrid)
 
-Last Edited on: 18/1/2022
+Last Edited on: 19/03/2022
