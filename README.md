@@ -1,5 +1,5 @@
 <h2 align="center">Hi! 
-	I'm <a target="_blank" href="https://stackoverflow.com/story/rid1">RIDWAN</a></h2>
+	I'm <a target="_blank" href="https://rid1.xyz">RIDWAN</a></h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
   <a target="_blank" href="https://www.instagram.com/this.rid1/">Instagram</a> 
