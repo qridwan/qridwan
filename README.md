@@ -12,7 +12,7 @@ A passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Typescrip, Threejs and webRTC.
+- 🌱 I’m currently learning Typescript and VueJs.
 - 💬 Ask me anything on [Telegram](https://t.me/thizizrid)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
