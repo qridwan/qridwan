@@ -33,10 +33,10 @@ A passionate Full-Stack Web Developer.
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </br> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrid&layout=compact&theme=highcontrast)]
-![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=thisisrid&count_private=true&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast)]
+![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=qridwan&count_private=true&show_icons=true&theme=highcontrast)
 
 ---
-[![HitCount](https://hits.dwyl.com/thisisrid/thisisrid.svg?style=flat-square)](http://hits.dwyl.com/thisisrid/thisisrid)
+[![HitCount](https://hits.dwyl.com/qridwan/qridwan.svg?style=flat-square)](http://hits.dwyl.com/qridwan/qridwan)
 
-Last Edited on: 17/10/2022
+Last Edited on: 20/12/2022
