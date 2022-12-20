@@ -14,7 +14,7 @@ A passionate Full-Stack Web Developer.
 
 - 🌱 I’m currently learning Typescrip, Threejs and webRTC.
 - 💬 Ask me anything on [Telegram](https://t.me/thizizrid)
-- 📫 How to reach me: [mail](mailto:hello@rid1.xyz)
+- 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
 
 <br>
@@ -36,7 +36,5 @@ A passionate Full-Stack Web Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast)]
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=qridwan&count_private=true&show_icons=true&theme=highcontrast)
 
----
-[![HitCount](https://hits.dwyl.com/qridwan/qridwan.svg?style=flat-square)](http://hits.dwyl.com/qridwan/qridwan)
 
 Last Edited on: 20/12/2022
