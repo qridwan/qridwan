@@ -1,8 +1,7 @@
 <h2 align="center">Hi! 
 	I'm <a target="_blank" href="https://qridwan.com">RIDWAN</a></h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/thizizrid/">LinkedIN</a> •
-  <a target="_blank" href="https://www.instagram.com/this.rid1/">Instagram</a> 
+  <a target="_blank" href="https://www.linkedin.com/in/qridwan/"> 💼 LinkedIn </a>
 </p>
 
 <br>
