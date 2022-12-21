@@ -11,9 +11,9 @@ A passionate Full-Stack Web Developer.
 <img align="right" alt="coding from home" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=36b14faczebrsuec7hjnfespdru8bncahf88mq3qegee722t&rid=giphy.gif&ct=g" height = 200 width = 300/>
 
 **Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Typescript and VueJs.
-- 💬 Ask me anything on [Telegram](https://t.me/thizizrid)
+- 🚀 React Rockstar 🌟
+- 🌱 Currently exploring with Typescript and VueJs.
+- 💬 Ask me anything on [Telegram](https://t.me/0rid1)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
 
@@ -37,4 +37,4 @@ A passionate Full-Stack Web Developer.
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=qridwan&count_private=true&show_icons=true&theme=highcontrast)
 
 
-Last Edited on: 20/12/2022
+Last Edited on: 21/12/2022
