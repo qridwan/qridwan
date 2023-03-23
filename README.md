@@ -11,7 +11,7 @@ A passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
-- 🌱 Currently exploring with Typescript and Postgresql 📚.
+- 🌱 Currently exploring with PHP and Laravel 📚.
 - 💬 Ask me anything on [Telegram](https://t.me/0rid1)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
@@ -36,4 +36,4 @@ A passionate Full-Stack Web Developer.
 ![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=qridwan&count_private=true&show_icons=true&theme=highcontrast)
 
 
-Last Edited on: 01/01/2023
+Last Edited on: 23/03/2023
