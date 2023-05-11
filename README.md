@@ -11,7 +11,7 @@ A passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
-- 🌱 Currently exploring PHP and Laravel 📚.
+- 🌱 Currently exploring Mongoose and NextJs 📚.
 - 💬 Ask me anything on [Telegram](https://t.me/0rid1)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
