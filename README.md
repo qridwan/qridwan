@@ -33,7 +33,6 @@ A passionate Full-Stack Web Developer.
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast)
-![Ridwan's github stats](https://github-readme-stats.vercel.app/api?username=qridwan&count_private=true&show_icons=true&theme=highcontrast)
 
 
-Last Edited on: 13/05/2023
+Last Edited on: 15/06/2023
