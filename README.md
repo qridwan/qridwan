@@ -21,7 +21,8 @@ A passionate Full-Stack Web Developer.
 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </br>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white) </br>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) </br>
@@ -35,4 +36,4 @@ A passionate Full-Stack Web Developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast)
 
 
-Last Edited on: 15/06/2023
+Last Edited on: 24/07/2023
