@@ -18,7 +18,10 @@ A passionate Full-Stack Web Developer.
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+ <p>
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast" alt=""/>
+  </p>
+  
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +36,8 @@ A passionate Full-Stack Web Developer.
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast)
 
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=qridwan&" alt="qridwan" /></p>
 
-Last Edited on: 24/07/2023
+<small> Last Edited on: 25/07/2023 </small>
+
