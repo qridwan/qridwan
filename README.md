@@ -11,7 +11,7 @@ A passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
-- 🌱 Currently exploring Mongoose and NextJs 📚.
+- 🌱 Currently mastering Mongoose and NextJs 📚.
 - 💬 Ask me anything on [Contact](https://qridwan.com/contact)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
@@ -39,5 +39,5 @@ A passionate Full-Stack Web Developer.
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=qridwan&theme=highcontrast" alt="qridwan" /></p>
 
-<small> Last Edited on: 26/07/2023 </small>
+<small> Last Edited on: 04/08/2023 </small>
 
