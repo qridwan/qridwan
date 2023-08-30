@@ -6,8 +6,8 @@
 
 <br>
 A passionate Full-Stack Web Developer.
-<a href="https://app.daily.dev/qridwan"><img src="[https://api.daily.dev/devcards](https://github.com/qridwan/qridwan/blob/master/devcard.svg)" width="350" alt="ridwan's Dev Card"/></a>
-<img align="right" alt="coding from home" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=36b14faczebrsuec7hjnfespdru8bncahf88mq3qegee722t&rid=giphy.gif&ct=g" height = 200 width = 300/>
+<a href="https://app.daily.dev/qridwan"><img src="[https://api.daily.dev/devcards](https://github.com/qridwan/qridwan/blob/main/devcard.svg)" width="350" alt="ridwan's Dev Card"/></a>
+
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
