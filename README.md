@@ -5,9 +5,7 @@
 </p>
 <br>
 A passionate Full-Stack Web Developer.
-<img align="right" src="https://gph.is/g/4wOjJWj" width="300" height="300" alt="ridwan's Dev Card"/>
-<a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="./devcard.svg" width="300" height="300" alt="ridwan's Dev Card"/></a>
-
+<img align="right" alt="coding from home" src= "https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/200w.webp?cid=36b14facvhiyr19d4cix9p69658qb8d735ni7n5al13i0i7h&ep=v1_gifs_search&rid=200w.webp&ct=g" height = 200 width = 300/>
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
@@ -19,7 +17,9 @@ A passionate Full-Stack Web Developer.
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
  <p>
-	  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast" alt=""/>
+	 <a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="./devcard.svg"  height="350" alt="ridwan's Dev Card"/></a>
+
+
   </p>
   
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,9 +35,17 @@ A passionate Full-Stack Web Developer.
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</br>
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+	
+</p>
+	  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qridwan&layout=compact&theme=highcontrast" alt=""/>
   </br> </br>
 
+<div style="margin: 10px">
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=qridwan&theme=highcontrast" alt="qridwan" /></p>
+</div>
 
-<small> Last Edited on: 04/08/2023 </small>
+
+> [!NOTE]
+> LAST EDITED:  31/08/2023
 
