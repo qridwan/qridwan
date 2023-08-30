@@ -3,10 +3,10 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/qridwan/"> 💼 LinkedIn </a>
 </p>
-
 <br>
 A passionate Full-Stack Web Developer.
-<a href="https://app.daily.dev/qridwan"><img src="[https://api.daily.dev/devcards](https://github.com/qridwan/qridwan/blob/main/devcard.svg)" width="350" alt="ridwan's Dev Card"/></a>
+<img align="right" src="https://gph.is/g/4wOjJWj" width="300" height="300" alt="ridwan's Dev Card"/>
+<a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="./devcard.svg" width="300" height="300" alt="ridwan's Dev Card"/></a>
 
 
 **Talking about Personal Stuffs:**
