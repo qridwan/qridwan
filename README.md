@@ -9,7 +9,7 @@ A passionate Full-Stack Web Developer.
 
 **Talking about Personal Stuffs:**
 - 🚀 React Rockstar 🌟
-- 🌱 Currently mastering Mongoose and NextJs 📚.
+- 🌱 Currently mastering Postgresql and ORM 📚.
 - 💬 Ask me anything on [Contact](https://qridwan.com/contact)
 - 📫 How to reach me: [mail](mailto:mail@qridwan.com)
 - 🎓 BSc Graduate
@@ -47,5 +47,5 @@ A passionate Full-Stack Web Developer.
 
 
 > [!NOTE]
-> LAST EDITED:  31/08/2023
+> LAST EDITED:  07/11/2023
 
