@@ -17,8 +17,8 @@ A passionate Full-Stack Web Developer.
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
  <p>
-	 <a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="https://github.com/qridwan/qridwan/blob/main/devcard.svg"  height="350" alt="ridwan's Dev Card"/></a>
-
+<!-- 	 <a align="right" href="https://app.daily.dev/qridwan"><img align="right" src="https://github.com/qridwan/qridwan/blob/main/devcard.svg"  height="350" alt="ridwan's Dev Card"/></a> -->
+<a href="https://app.daily.dev/qridwan"><img src="https://github.com/qridwan/qridwan/blob/main/devcard.png" width="356" alt="ridwan's Dev Card"/></a>
 
   </p>
   
