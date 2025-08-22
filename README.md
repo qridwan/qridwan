@@ -30,7 +30,6 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
 - 🔭 Working on enterprise-level web applications
 - 🌱 Mastering **PostgreSQL** and advanced **ORM** patterns
 - 👯 Looking to collaborate on innovative web projects
-- 🎓 **BSc Computer Science Graduate**
 
 ### 💡 What I Bring
 - **Problem Solving**: Turning complex requirements into elegant solutions
