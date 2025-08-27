@@ -95,14 +95,7 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qridwan&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qridwan&theme=nord&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=qridwan&theme=react&hide_border=true" />
 </div>
 
 ---
@@ -113,6 +106,14 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+<div align="center">
+ <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=qridwan&theme=nord&column=7&no-frame=true&no-bg=true" />
+</div>
+
+---
+
 
 ## 🤝 Let's Connect
 
