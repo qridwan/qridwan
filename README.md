@@ -94,10 +94,6 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qridwan&layout=compact&langs_count=8&theme=react"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=qridwan&theme=react&hide_border=true" />
-</div>
-
 ---
 
 ## 📈 Activity Graph
