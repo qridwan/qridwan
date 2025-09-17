@@ -115,7 +115,7 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
 
 <div align="center">
 
-📧 **Email**: [404ridwan@qridwan.com](mailto:404ridwan@google.com)  
+📧 **Email**: [404ridwan@gmail.com](mailto:404ridwan@gmail.com)  
 🌐 **Portfolio**: [ridwan-dev](https://ridwan-dev.web.app/)
 💼 **LinkedIn**: [linkedin.com/in/qridwan](https://www.linkedin.com/in/qridwan/)  
 
