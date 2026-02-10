@@ -115,11 +115,11 @@ I'm a **passionate Full-Stack Web Developer** with expertise in modern web techn
 
 <div align="center">
 
-📧 **Email**: [404ridwan@gmail.com](mailto:404ridwan@gmail.com)  
-🌐 **Portfolio**: [ridwan-dev](https://ridwan-dev.web.app/)
+📧 **Email**: [mail@ridwan.cc](mailto:mail@ridwan.cc)  
+🌐 **Portfolio**: [ridwan](https://ridwan.cc)
 💼 **LinkedIn**: [linkedin.com/in/qridwan](https://www.linkedin.com/in/qridwan/)  
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
