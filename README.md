@@ -1,130 +1,90 @@
-# Hi there, I'm Ridwan 👋
+# Ridwan — Full-Stack Web Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;Backend+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+**React & Next.js Specialist · Backend Architecture · Always Learning**
+
+[![Portfolio](https://img.shields.io/badge/ridwan.cc-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ridwan.cc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qridwan/)
+[![Email](https://img.shields.io/badge/mail@ridwan.cc-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@ridwan.cc)
+
 </div>
 
-<p align="center">
-  <a href="https://ridwan.cc" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/qridwan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mail@ridwan.cc" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
-## 🚀 About Me
+## About Me
 
-<table>
-<tr>
-<td width="60%">
+I'm a passionate Full-Stack Web Developer with expertise in building scalable applications using the React ecosystem and robust backend architectures. I focus on turning complex requirements into elegant, performant solutions.
 
-I'm a **passionate Full-Stack Web Developer** with expertise in modern web technologies. I specialize in building scalable applications using React ecosystem and robust backend solutions.
-
-### 🎯 Current Focus
-- 🔭 Working on enterprise-level web applications
+- 🔭 Currently working on enterprise-level web applications
 - 🌱 Mastering **PostgreSQL** and advanced **ORM** patterns
-- 👯 Looking to collaborate on innovative web projects
-
-### 💡 What I Bring
-- **Problem Solving**: Turning complex requirements into elegant solutions
-- **Performance Optimization**: Building fast, efficient applications
-- **Team Collaboration**: Strong communication and teamwork skills
-- **Continuous Learning**: Staying updated with latest industry trends
-
-</td>
-<td width="40%" align="right">
-
-<img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<br/>
-<a href="https://app.daily.dev/qridwan">
-  <img src="./devcard.png" height="auto" width="300" alt="Ridwan's Dev Card"/>
-</a>
-
-
-
-</td>
-</tr>
-</table>
+- 👯 Open to collaborating on innovative web projects
+- ⚡ Strong focus on performance optimization and clean architecture
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-<div align="center">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qridwan&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444&icon_color=000000" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qridwan&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qridwan&theme=minimal&hide_border=true&bg_color=ffffff&color=444444&line=000000&point=000000" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Trophies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qridwan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qridwan&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=qridwan&theme=flat&column=7&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qridwan&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
- <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=qridwan&theme=nord&column=7&no-frame=true&no-bg=true" />
-</div>
-
----
-
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-📧 **Email**: [mail@ridwan.cc](mailto:mail@ridwan.cc)  
-🌐 **Portfolio**: [ridwan](https://ridwan.cc)
-💼 **LinkedIn**: [linkedin.com/in/qridwan](https://www.linkedin.com/in/qridwan/)  
+📧 [mail@ridwan.cc](mailto:mail@ridwan.cc) &nbsp;·&nbsp; 🌐 [ridwan.cc](https://ridwan.cc) &nbsp;·&nbsp; 💼 [linkedin.com/in/qridwan](https://www.linkedin.com/in/qridwan/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/>
 
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qridwan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=qridwan&label=Profile+Views&color=000000&style=flat-square)
+
 </div>
