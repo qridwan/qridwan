@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full-Stack Web Developer · React & Next.js Specialist · Backend Architecture**
+**Full-Stack Web Developer · React & Next.js Specialist · Backend Architecture · DevOps**
 
 [![Portfolio](https://img.shields.io/badge/ridwan.cc-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ridwan.cc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qridwan/)
@@ -19,6 +19,7 @@ I'm a Full-Stack Web Developer focused on building scalable, well-structured web
 
 - 🔭 Currently working on enterprise-level web applications
 - 🌱 Mastering **PostgreSQL** and advanced **ORM** patterns
+- 🚀 Building production-ready infrastructure on **VPS** with modern DevOps practices
 - 👯 Open to collaborating on meaningful web projects
 - 💬 Ask me about **React, Next.js, Node.js, or system design**
 - ⚡ Fun fact: I enjoy breaking down complex problems into simple, elegant solutions
@@ -31,6 +32,7 @@ I'm a Full-Stack Web Developer focused on building scalable, well-structured web
 |---|---|
 | **Frontend** | Scalable UI architecture, performance optimization, state management |
 | **Backend** | RESTful APIs, database design, authentication & security |
+| **DevOps** | VPS management, reverse proxying, database administration, automated backups |
 | **Collaboration** | Clean git workflows, code reviews, technical documentation |
 | **Learning** | Staying current with web standards, tools, and best practices |
 
@@ -58,6 +60,15 @@ I'm a Full-Stack Web Developer focused on building scalable, well-structured web
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![PgBouncer](https://img.shields.io/badge/PgBouncer-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![SSL](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,7 +77,6 @@ I'm a Full-Stack Web Developer focused on building scalable, well-structured web
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -101,6 +111,7 @@ I'm a Full-Stack Web Developer focused on building scalable, well-structured web
 Write code for humans first, machines second.
 Simple > Clever. Readable > Terse. Working > Perfect.
 Ship early, iterate fast, never stop improving.
+Infrastructure is code. Security is not optional.
 ```
 
 ---
@@ -110,7 +121,8 @@ Ship early, iterate fast, never stop improving.
 - 📐 **System Design** — scalable architectures for high-traffic applications
 - 🗄️ **PostgreSQL** — query optimization, indexing strategies, advanced ORM patterns
 - 🔐 **Auth & Security** — JWT, OAuth2, role-based access control
-- ☁️ **Deployment** — CI/CD pipelines, containerization, cloud infrastructure
+- ☁️ **DevOps** — VPS management, nginx reverse proxying, automated backups, SSL/TLS configuration
+- 🚀 **Performance** — connection pooling (PgBouncer), database replication, load balancing
 
 ---
 
